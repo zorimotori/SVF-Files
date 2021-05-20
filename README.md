@@ -1,2 +1,2 @@
-# SVF-Files
+# SVG-Files
 Project for university
